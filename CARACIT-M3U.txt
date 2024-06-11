@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:0,1 - CARAC1
+https://edge17.vedge.infomaniak.com/livecast/ik:event/chunklist_w2026827057.m3u8?spark=9f6e4807-c049-4b13-ae48-de8b35efc143&amp;token=</location>
+#EXTINF:0,2 - CARAC2
+https://edge17.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1439921162_b3000000.m3u8?spark=fa501da5-2f4a-42c3-9f14-70b6792bee72&amp;token=
+#EXTINF:0,3 - CARAC3
+https://edge11.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1310301101_b3000000.m3u8?spark=bc97736b-5d73-452b-ac88-e0ffb5a66ae7&amp;token=
+#EXTINF:0,4 - CARAC4
+https://edge13.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w635306097_b3000000.m3u8?spark=d7b059f7-9031-47e5-8798-02522c174c77&amp;token=
+#EXTINF:0,5 - MINERVA TV
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,6 - NUOVATV1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:0,7 - PLUTO
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:0,8 - La7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:0,9 - TVEXPANSIONE
+https://srvx1.selftv.video/espansione/smil:live/chunklist_w858683391_b1200000_sleng_t64MTIwMGticHM=.m3u8
+#EXTINF:0,10 - SAN MARINO TV
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+#EXTINF:0,11 - ANTENNA TRE
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/chunklist_w2139444513.m3u8
+#EXTINF:0,12 - TELE NORBA
+https://stream9.xdevel.com/video2s976570-2307/stream/playlist_dvr.m3u8
+#EXTINF:0,13 - TELEONESSA
+https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w491569140.m3u8
+#EXTINF:0,14 - BFMTV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:0,15 - BFMBUSINESS
+https://trs1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=07v54psgbhvk99ju16kg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:0,16 - EURONEWS
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0,17 - RAI 3
+https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 tvg-name="Storia – Pluto TV" tvg-logo="https://i.imgur.com/w5BYvsz.png" group-title="VOD Italy",Storia – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Documentari – Pluto TV" tvg-logo="https://i.imgur.com/0jYrODf.png" tvg-id="PlutoTVDocumentariItaly.it" group-title="VOD Italy",Documentari – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Viaggi – Pluto TV" tvg-logo="https://i.imgur.com/3GJg0uy.png" group-title="VOD Italy",Viaggi – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
